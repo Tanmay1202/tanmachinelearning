@@ -1,7 +1,4 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+SAMPLE UI FOR AIFUSION
 
 Description of the app ...
 
